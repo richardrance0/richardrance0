@@ -1,6 +1,10 @@
 # <a href="https://www.linkedin.com/in/richardrance/">Richard Rance</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I am passionate about the field of cybersecurity and thrive on addressing complex challenges through hands-on, project-based work. From vulnerability management to threat detection, these initiatives have enabled me to explore the continuously evolving cybersecurity landscape in depth. I invite you to review these projects to see the efforts I have dedicated toward enhancing security operations and processes.
+I am passionate about the field of cybersecurity and thrive on addressing complex challenges through hands-on, project-based work. 
+
+From vulnerability management to threat detection, these initiatives have enabled me to explore the continuously evolving cybersecurity landscape in depth. 
+
+I invite you to review these projects to see the efforts I have dedicated toward enhancing security operations and processes.
 
 
 ## ⚠️ Vulnerability Management Projects
