@@ -16,6 +16,8 @@ I am passionate about the field of cybersecurity and thrive on addressing comple
 
 ## 🤳 Connect With Me
 
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://linkedin.com/in/richardrance/
 
 <!--
