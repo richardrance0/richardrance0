@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/richardrance/">Richard Rance</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/richardrance/">Richard Rance</a>'s IT and Cybersecurity Project Portfolio :computer:
 
 I am passionate about the field of cybersecurity and thrive on addressing complex challenges through hands-on, project-based work. 
 
