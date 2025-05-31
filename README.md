@@ -7,7 +7,8 @@ From vulnerability management to threat detection, these initiatives have enable
 I invite you to review these projects to see the efforts I have dedicated toward enhancing security operations and processes.
 
 
-## ⚠️ Vulnerability Management Projects
+## ![Github danger stopsign](https://github.com/user-attachments/assets/5adddbfe-c4b3-4cda-b664-3349b1e085ea)
+ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/richardrance0/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/richardrance0/Threat_Hunting_Scenarios/blob/main/Shadow%20IT%20README.md)**
