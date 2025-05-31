@@ -12,7 +12,7 @@ I invite you to review these projects to see the efforts I have dedicated toward
 - **[Vulnerability Management Program Implementation](https://github.com/richardrance0/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/richardrance0/Threat_Hunting_Scenarios/blob/main/Shadow%20IT%20README.md)**
 
-## 🚨 Threat Hunting and Security Operations
+## :telescope: Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/richardrance0/Threat_Hunting_Scenarios?tab=readme-ov-file)**
 - **[Threat Hunting Scenario (Shadow IT)](https://github.com/richardrance0/Threat_Hunting_Scenarios/blob/main/Shadow%20IT%20README.md)**
