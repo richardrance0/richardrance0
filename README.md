@@ -15,7 +15,7 @@ I invite you to review these projects to see the efforts I have dedicated toward
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/richardrance0/Threat_Hunting_Scenarios?tab=readme-ov-file)**
-- **[Threat Hunting Scenario (Shadow IT)](https://github.com/richardrance0/Threat_Hunting_Scenarios/blob/main/Shadow-IT.md)**
+- **[Threat Hunting Scenario (Shadow IT)](https://github.com/richardrance0/Threat_Hunting_Scenarios/blob/main/Shadow%20IT%20README.md)**
 
 ## 🤳 Connect With Me
 
