@@ -17,11 +17,6 @@ I invite you to review these projects to see the efforts I have dedicated toward
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/richardrance0/Threat_Hunting_Scenarios?tab=readme-ov-file)**
 - **[Threat Hunting Scenario (Shadow IT)](https://github.com/richardrance0/Threat_Hunting_Scenarios/blob/main/Shadow%20IT%20README.md)**
 
-## 🤳 Connect With Me
-
-[<img align="left" alt="richardrance | Twitter" width="22px" src="https://cdn.theyoda2ltoq@gmail.com/npm/simple-icons@v3/icons/twitter.svg" />][[twitter](https://x.com/JustRich2008)]
-[<img align="left" alt="richardrance | LinkedIn" width="22px" src="https://cdn.theyoda2ltoq@gmail.com/npm/simple-icons@v3/icons/linkedin.svg" />][[linkedin](https://linkedin.com/in/richardrance)]
-[<img align="left" alt="richardrance | Instagram" width="22px" src="https://cdn.theyoda2ltoq@gmail.com/npm/simple-icons@v3/icons/instagram.svg" />][[instagram](https://www.instagram.com/richardrance)]
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
